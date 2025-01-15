@@ -36,4 +36,3 @@ The dataset is provided by **Healthy Brain Network (HBN)** and the **Reproducibl
 4. **Evaluation Metrics:** Assess model performance for both ADHD and gender prediction.
 5. **Insights & Interpretability:** Understanding ADHD-related brain activity differences.
 
-## 📌 Repository Structure
